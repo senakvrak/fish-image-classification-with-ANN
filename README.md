@@ -70,3 +70,6 @@ To run this project, you will need:
 * seaborn (for visualizations)
 * matplotlib
 
+## Kaggle
+[Kaggle Website](https://www.kaggle.com/code/senakivrak/classification-project-deep-learning-ann/notebook)
+
